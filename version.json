@@ -1,5 +1,5 @@
 {
-  "version": "1.2",
-  "note": "测试用：模拟有新版",
+  "version": "1.1",
+  "note": "修复：抖音评论抓取保存位置可改、记住上次选择；抖音页新增「使用说明」标签页；启动自动检查更新。",
   "download": "https://github.com/yuning210215-bit/haoming-toolbox/releases/latest"
 }
