@@ -1,5 +1,5 @@
 {
-  "version": "1.1",
-  "note": "修复：抖音评论抓取保存位置可改、记住上次选择；抖音页新增「使用说明」标签页；启动自动检查更新。",
+  "version": "1.2",
+  "note": "新增第三个功能：抖音视频下载（粘链接→无水印 MP4，最高 1080P，可批量排队）。",
   "download": "https://github.com/yuning210215-bit/haoming-toolbox/releases/latest"
 }
