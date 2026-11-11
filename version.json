@@ -1,5 +1,1 @@
-{
-  "version": "1.2",
-  "note": "新增第三个功能：抖音视频下载（粘链接→无水印 MP4，最高 1080P，可批量排队）。",
-  "download": "https://github.com/yuning210215-bit/haoming-toolbox/releases/latest"
-}
+{"version":"9.9","note":"测试用临时版本号（验证强制更新拦截）"}
