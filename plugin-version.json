@@ -1,0 +1,5 @@
+{
+  "version": "1.4.0",
+  "note": "加入版本校验：版本不匹配即停用，需换新版。",
+  "download": "https://github.com/yuning210215-bit/haoming-toolbox/releases/latest"
+}
