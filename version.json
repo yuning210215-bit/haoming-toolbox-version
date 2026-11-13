@@ -1,5 +1,5 @@
 {
-  "version": "1.10",
-  "note": "修：抓取中途浏览器断线会自动重开重试；每次用完自动关浏览器；禁止同时开两个窗口。",
+  "version": "1.11",
+  "note": "改为一个一个视频抓：每个视频抓完自动关掉浏览器，再开下一个，更稳。",
   "download": "https://github.com/yuning210215-bit/haoming-toolbox/releases/latest"
 }
